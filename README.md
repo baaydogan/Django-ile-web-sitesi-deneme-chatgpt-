@@ -1,1 +1,1 @@
-# Django-ile-web-sitesi-deneme-chatgpt-
+# Python ile küçük denemeler
